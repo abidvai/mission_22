@@ -1,0 +1,100 @@
+.section-0 {
+  display: flex;
+  margin-bottom: 2px;
+}
+.section-1 {
+  width: 50%;
+  padding-top: 5%;
+  padding-left: 5%;
+}
+.orange {
+  color: orange;
+}
+.button-1 {
+  text-decoration: none;
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px 5px 5px 5px;
+  font-weight: 700;
+}
+.image-0 {
+  width: 60%;
+  margin-bottom:10%;
+}
+.text {
+  text-align: center;
+  font-size: 40px;
+}
+.partition {
+  display: flex;
+  margin-bottom: 2px;
+  margin-right: 5%;
+}
+.illustrator {
+  width: 30%;
+  height: 30%;
+}
+#mission {
+  border-image-slice: 1;
+}
+#vissiion {
+  border-image-slice: 1;
+}
+#goals {
+  border-image-slice: 1;
+}
+.flexiable {
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 30px;
+  padding-right: 5%;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 3%;
+}
+.section-2 {
+  display: flex;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+}
+.image-1 {
+  width: 90%;
+  height: 70%;
+}
+.develop {
+  margin-right: 5%;
+}
+.button-2 {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700px;
+}
+.image-1 {
+  width: 50%;
+  height: 40%;
+}
+.image-2 {
+  width: 60%;
+  height: 90%;
+  margin-left: 30%;
+}
+.app {
+  padding-top: 10%;
+  margin-right: 5%;
+}
+.red {
+  color: red;
+}
+.white {
+  color: antiquewhite;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  margin-bottom: 0%;
+}
+footer p {
+  color: antiquewhite;
+}
